@@ -1,0 +1,6 @@
+{
+  "name": "SarPay AI - File Translation & Member Portal",
+  "description": "SarPay AI translator and user portal with Firebase integration, Myanmar translation for PDF and Word documents, coin wallet, timer access system, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
